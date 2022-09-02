@@ -1,0 +1,6 @@
+[workspace]
+
+members = [
+    "trails-bin",
+    "trails-install"
+]

@@ -1,0 +1,11 @@
+{
+    "server": {
+        "port": 443,
+        "cert": "certs/cert.pem",
+        "key": "certs/key.pem"
+    },
+    "log": {
+        "file": { "level": "INFO" },
+        "console": { "level": "TRACE" }
+    }
+}
